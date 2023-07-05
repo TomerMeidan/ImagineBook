@@ -1,7 +1,5 @@
 from tkinter import Tk, Label, Button, filedialog, Text, Frame, Scrollbar, INSERT, END, constants
-from tkinter.ttk import Progressbar
 from PIL import Image, ImageTk
-import os
 from api import generate_image_from_prompt
 from pdf import get_pdf_text, get_pdf_file_name
 
