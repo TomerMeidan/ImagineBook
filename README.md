@@ -52,7 +52,6 @@ Run the main.py script to start the program:
 3. Click the "Upload PDF" button to upload a PDF file and extract its text content.
    
 # Video Representation
-[![Test 1](https://drive.google.com/uc?export=download&id=12f3CKPQYTe1meZsCTgZJfD5YRKCzXqOz)](https://drive.google.com/file/d/12f3CKPQYTe1meZsCTgZJfD5YRKCzXqOz/view?usp=drive_link)
-
+:movie_camera: [[Video File]()](https://drive.google.com/file/d/12f3CKPQYTe1meZsCTgZJfD5YRKCzXqOz/view?usp=drive_link)
 
 If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
