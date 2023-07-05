@@ -50,6 +50,9 @@ Run the main.py script to start the program:
 1. Enter a prompt in the text box.
 2. Click the "Generate Image" button to generate an image based on the prompt.
 3. Click the "Upload PDF" button to upload a PDF file and extract its text content.
+   
+# Video Representation
+[![Test 1](https://drive.google.com/uc?export=download&id=12f3CKPQYTe1meZsCTgZJfD5YRKCzXqOz)](https://drive.google.com/file/d/12f3CKPQYTe1meZsCTgZJfD5YRKCzXqOz/view?usp=drive_link)
 
 
 If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
