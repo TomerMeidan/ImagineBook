@@ -20,7 +20,7 @@ ImagineBooks AI is a Python program that uses the Dezgo API to generate images b
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/imaginebooks-ai.git
+git clone https://github.com/your-username/imaginebook.git
 
 2. Install the required dependencies using pip:
 
@@ -52,6 +52,6 @@ Run the main.py script to start the program:
 3. Click the "Upload PDF" button to upload a PDF file and extract its text content.
    
 # Video Representation
-:movie_camera: [Video File #1](https://drive.google.com/file/d/12f3CKPQYTe1meZsCTgZJfD5YRKCzXqOz/view?usp=drive_link)
+:movie_camera: [Video File #1](https://drive.google.com/file/d/1SNd0jZmIFb1X_IB8vw1bVT_sYjbJq_bV/view?usp=sharing)
 
 If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
